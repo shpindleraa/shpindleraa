@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shpindleraa
+- 👋 Hi, I’m Andrey Shpindler
 - 👀 I’m interested in geology and exploration oil and gasfields
 - 🌱 I’m currently learning python and BI system
 - 💞️ I’m looking to collaborate in geology project on python
